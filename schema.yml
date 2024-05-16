@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: Amoodjan
+  version: 1.0.0
+  description: A comprehensive Django course on building RESTful APIs using the Django framework, covering topics such as serialization, authentication, CRUD operations, and best practices in API development.
+paths: {}
+components: {}
